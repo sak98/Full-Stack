@@ -1,0 +1,4 @@
+Empty elements are called self-closing elements are void elements 
+
+Elements with no closing tags are known as empty tags 
+Eg: <br> ---> line break 
