@@ -2,3 +2,5 @@ Empty elements are called self-closing elements are void elements
 
 Elements with no closing tags are known as empty tags 
 Eg: <br> ---> line break 
+
+img tags : alt: Display alternate text description of the image used for SEARCH ENGINE OPTIMIZATION in SEARCH ENGINE
