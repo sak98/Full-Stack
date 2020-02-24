@@ -6,3 +6,7 @@ Eg: <br> ---> line break
 img tags : alt: Display alternate text description of the image used for SEARCH ENGINE OPTIMIZATION in SEARCH ENGINE
 
 favicon-- small image file contains one or more icons that can be used to represent a website
+
+Lists.....
+1) Ordered list : it is a list of items where the items have been intentionally ordered 
+        Li: elements present inside the ordered list is represented inside <li></li> tags 
