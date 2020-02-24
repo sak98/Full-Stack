@@ -4,3 +4,5 @@ Elements with no closing tags are known as empty tags
 Eg: <br> ---> line break 
 
 img tags : alt: Display alternate text description of the image used for SEARCH ENGINE OPTIMIZATION in SEARCH ENGINE
+
+favicon-- small image file contains one or more icons that can be used to represent a website
