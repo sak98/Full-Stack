@@ -9,4 +9,8 @@ favicon-- small image file contains one or more icons that can be used to repres
 
 Lists.....
 1) Ordered list : it is a list of items where the items have been intentionally ordered 
-        Li: elements present inside the ordered list is represented inside <li></li> tags 
+        Li: elements present inside the ordered list is represented inside <li></li> tags
+
+Structural elements 
+        <div>  
+        <span>
