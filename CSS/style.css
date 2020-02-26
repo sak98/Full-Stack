@@ -1,17 +1,18 @@
 h1{
-    color:yellow  ;
+    color: black ;
     font-style: oblique;
 }
 
 body{
-    background-color: rgb(132, 73, 199);
+    background-color: khaki;
 }
 
 div{
-    height: 100;
-    width: 150;
-    color: rgb(35, 213, 245);
-    background-color: royalblue;
-    font-size: 1in;
+    background-color: palegreen;
+    width: 10;
+    height: 10;
+    margin-right: 100;
+    
+    align-self: center;
     
 }

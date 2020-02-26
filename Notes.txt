@@ -14,3 +14,15 @@ Lists.....
 Structural elements 
         <div>  
         <span>
+
+Forms: Forms on a web page allows user to enter data that is sent to the server for processing.
+
+Methods on forms:
+Post : Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.
+Get : Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a '?' as separator, and the resulting URI is sent to the server.
+
+Label : The label element represents a caption in a user interface. The caption can be associated with a specific form control,
+Types of forms :
+Input: Represents text enterable data 
+Name attribute: The name attribute specifies the name of an <input> element. The name attribute is used to reference elements in a JavaScript, or to reference form data after a form is submitted. 
+Method attribute: The method attribute specifies how to send form-data (the form-data is sent to the page specified in the action attribute).
