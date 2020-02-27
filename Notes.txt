@@ -26,3 +26,15 @@ Types of forms :
 Input: Represents text enterable data 
 Name attribute: The name attribute specifies the name of an <input> element. The name attribute is used to reference elements in a JavaScript, or to reference form data after a form is submitted. 
 Method attribute: The method attribute specifies how to send form-data (the form-data is sent to the page specified in the action attribute).
+
+minlength attribute : Used to restrict the minimum lenght of the input value 
+maxlength attribute : Used to restrict the maximum lenght of the input value
+required attribute : Maked the field mandatory
+pattern attribute : specifies a regular expression that <input> element's value is checked against on form submission 
+Size attribute : specifies the visible size of the input field 
+
+novalidae attribute : This Boolean attribute indicates that the form is not to be validated when submitted. 
+placeholder attribute : input refernce text             
+value attribute : predefined text or entry for  <input>
+disabled attribute : disable any tag
+hidden attribute: not visible for end user.A Boolean attribute indicates that the element is not yet, or is no longer, relevant. For example, it can be used to hide elements of the page that can't be used until the login process has been completed. The browser won't render such elements. This attribute must not be used to hide content that could legitimately be shown.

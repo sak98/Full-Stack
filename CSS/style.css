@@ -2,7 +2,6 @@ h1{
     color: black ;
     font-style: oblique;
 }
-
 body{
     background-color: khaki;
 }
@@ -12,7 +11,7 @@ div{
     width: 10;
     height: 10;
     margin-right: 100;
-    
     align-self: center;
     
 }
+
