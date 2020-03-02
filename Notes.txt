@@ -38,3 +38,11 @@ placeholder attribute : input refernce text
 value attribute : predefined text or entry for  <input>
 disabled attribute : disable any tag
 hidden attribute: not visible for end user.A Boolean attribute indicates that the element is not yet, or is no longer, relevant. For example, it can be used to hide elements of the page that can't be used until the login process has been completed. The browser won't render such elements. This attribute must not be used to hide content that could legitimately be shown.
+
+Id: Defines a unique identifier (ID) which must be unique in the whole document. Its purpose is to identify the element when linking (using a fragment identifier), scripting, or styling (with CSS).
+
+class in HTML 
+
+The class is an attribute which specifies one or more class names for an HTML element. The class name can be used by SCC and JavaScript to perform certain tasks for elements with the specified class name.
+
+Style attribute: Contains CSS styling to be applied to the element.
